@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Financial Professional Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        h2 {
+            color: #555;
+        }
+
+        p {
+            color: #777;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Financial Market Professional</h1>
+    </header>
+
+    <section>
+        <h2>Career Objectives</h2>
+        <p>
+            I aim to acquire industry skills and deepen my professional knowledge in the financial markets. My goal is to gain a comprehensive understanding of various specializations within the financial industry, such as compliance, settlement, and analysis. Continual learning is key, as I aspire to contribute meaningfully to both the organization and the broader financial sector.
+        </p>
+    </section>
+
+    <section>
+        <h2>Educational Background</h2>
+        <ul>
+            <li><strong>University of Johannesburg</strong></li>
+            <ul>
+                <li>Advanced Diploma in Economics (2016) - Micro and Macro Economics, Macroeconomics Research, Mathematical/Financial Economics</li>
+                <li>Certificate in Mathematical Subjects - Financial/Applied Mathematics</li>
+                <li>Diploma in Banking (2015) - Economics, Banking, Management, Financial Accounting, Quantitative Techniques</li>
+            </ul>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Work Experience</h2>
+
+        <ul>
+            <li><strong>Current Position: Financial Reporter at UJ FM</strong></li>
+            <ul>
+                <li>Business updates, program schedule preparation, economic indicators updates, and podcast uploading.</li>
+            </ul>
+
+            <li><strong>Previous Position: Content Producer at Classic 1027 (July 2018)</strong></li>
+            <ul>
+                <li>Scheduled interviews, prepared program schedules, handled phone calls, uploaded podcasts, contributed to question compilation for guests, and scheduled adverts.</li>
+            </ul>
+
+            <!-- Add similar sections for other work experiences -->
+
+        </ul>
+    </section>
+
+    <section>
+        <h2>Competencies and Attributes</h2>
+        <ul>
+            <li>Team player</li>
+            <li>Understanding of financial/economic indicators</li>
+            <li>Financial markets tracking</li>
+            <li>Proficient in Eviews system</li>
+            <li>Microsoft Office – Word, Excel, PowerPoint, Outlook</li>
+            <li>Detail-oriented</li>
+            <li>Problem-solving skills</li>
+            <li>Time management (ability to meet deadlines)</li>
+            <li>Reporting on financial markets</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Project Contributions (Month 2)</h2>
+        <p>Video: <a href="https://youtu.be/iz6tKRWOHDo?si=5XGehICnPCopTf0Z" target="_blank">Team's Month 2 project video on YouTube</a></p>
+        <p>Slide Deck: <a href="https://drive.google.com/file/d/1op7iVx41qgo8pNdPvPDK0ivs01ROgloZ/view?usp=sharing" target="_blank">Project slide deck link</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
